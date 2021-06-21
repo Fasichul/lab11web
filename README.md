@@ -48,3 +48,47 @@
 ![image](https://user-images.githubusercontent.com/81569638/121820835-046cef80-ccbf-11eb-9bef-298da99ac151.png)
 ![image](https://user-images.githubusercontent.com/81569638/121820844-1058b180-ccbf-11eb-8c75-47676592dd15.png)
 
+## Langngkah-langkah praktikum lab12web (lanjutan lab11web)
+# 1. membuat data base dan tabel
+![image](https://user-images.githubusercontent.com/81569638/122799997-9e9aec00-d2ec-11eb-9d7e-5774216987a3.png)
+# 2. konfigurasi koneksi database
+![image](https://user-images.githubusercontent.com/81569638/122800146-c9854000-d2ec-11eb-8daa-1cfb60ad1077.png)
+# 3. membuat model artikel Artikelmodel.php
+![image](https://user-images.githubusercontent.com/81569638/122800366-09e4be00-d2ed-11eb-9297-caaec72772bc.png)
+# 4. membuat model contoller Atikel.php
+![image](https://user-images.githubusercontent.com/81569638/122800705-752e9000-d2ed-11eb-8ba6-82c16ca2dee4.png)
+# 5. Mambuat View index.php Selanjutnya buka browser kembali, dengan mengakses url http://localhost:8080/artikel
+![image](https://user-images.githubusercontent.com/81569638/122800937-b7f06800-d2ed-11eb-8f9c-2cf367356640.png)
+![image](https://user-images.githubusercontent.com/81569638/122801048-db1b1780-d2ed-11eb-922e-4efc53579cb8.png)
+# 6. mengisi database
+![image](https://user-images.githubusercontent.com/81569638/122801210-06056b80-d2ee-11eb-8c8a-4a1518258666.png)
+![image](https://user-images.githubusercontent.com/81569638/122801332-2af9de80-d2ee-11eb-98f0-9601301c4a43.png)
+# 7. membuat tampilan detail artikel
+![image](https://user-images.githubusercontent.com/81569638/122801536-73b19780-d2ee-11eb-9f70-92044dc40d1e.png)
+# 8. Membuat View Detail app/views/artikel/detail.php.
+![image](https://user-images.githubusercontent.com/81569638/122801675-a065af00-d2ee-11eb-82ec-80c21d9dc66a.png)
+# 9. Membuat Routing untuk artikel detail di app/config/Routes.php,
+![image](https://user-images.githubusercontent.com/81569638/122801810-cd19c680-d2ee-11eb-91c8-01318be45cd6.png)
+![image](https://user-images.githubusercontent.com/81569638/122801846-d9058880-d2ee-11eb-9c15-6986ed2c373f.png)
+# 10. Membuat Menu Admin, Selanjutnya buat view untuk tampilan admin dengan nama admin_index.php
+![image](https://user-images.githubusercontent.com/81569638/122802018-12d68f00-d2ef-11eb-9da9-2069fb56f1ea.png)
+# 11. Menambahkan Routing untuk Menu Admin kemudian Akses menu admin dengan url http://localhost:8080/admin/artikel
+![image](https://user-images.githubusercontent.com/81569638/122802267-5e893880-d2ef-11eb-926a-4f670afb4dff.png)
+![image](https://user-images.githubusercontent.com/81569638/122802322-6e088180-d2ef-11eb-8568-a4bfe0998de6.png)
+# 12. Menambahkan Data Artikel Kemudian buat view untuk form tambah dengan nama form_add.php
+![image](https://user-images.githubusercontent.com/81569638/122802531-a9a34b80-d2ef-11eb-9754-22e5da09502a.png)
+![image](https://user-images.githubusercontent.com/81569638/122802603-baec5800-d2ef-11eb-9160-6a129158e6f3.png)
+![image](https://user-images.githubusercontent.com/81569638/122802648-c8094700-d2ef-11eb-9b3b-a6547ccfc639.png)
+![image](https://user-images.githubusercontent.com/81569638/122802681-d48d9f80-d2ef-11eb-8343-2e2590f28f51.png)
+# 13. Mengubah Data Artikel kemuadian membuat view untuk form edit dengan nama form_edit.php
+![image](https://user-images.githubusercontent.com/81569638/122802792-fe46c680-d2ef-11eb-9d0a-63857e29ad60.png)
+![image](https://user-images.githubusercontent.com/81569638/122802876-1c142b80-d2f0-11eb-8399-d489db6c87c0.png)
+![image](https://user-images.githubusercontent.com/81569638/122802910-28988400-d2f0-11eb-860c-27344abcfba0.png)
+![image](https://user-images.githubusercontent.com/81569638/122802941-351cdc80-d2f0-11eb-9610-c715282512ae.png)
+# 14. Menghapus Data Artikel
+![image](https://user-images.githubusercontent.com/81569638/122803030-541b6e80-d2f0-11eb-849f-2ec221ff227d.png)
+![image](https://user-images.githubusercontent.com/81569638/122803095-64334e00-d2f0-11eb-887b-fe7a6539493a.png)
+![image](https://user-images.githubusercontent.com/81569638/122803179-7614f100-d2f0-11eb-9222-f6672574e270.png)
+![image](https://user-images.githubusercontent.com/81569638/122803232-8927c100-d2f0-11eb-95b0-5be347af72e1.png)
+
+
